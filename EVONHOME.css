@@ -65,11 +65,14 @@ h3 {
   color: #878FAD;
 }
 #link {
+  position: absolute;
   width: 85px;
   height: 15px;
-  font-family: SF Pro Display;
+  left: 163px;
+  top: 772px;
+  font-family: 'SF Pro Display';
   font-size: 16px;
+  line-height: 14px;
   text-align: center;
   color: #3D8BF2;
-  margin: 0 163px 36px 163px;
 }
