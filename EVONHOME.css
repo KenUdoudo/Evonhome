@@ -65,7 +65,7 @@ h3 {
   color: #878FAD;
 }
 #link {
-  position: relative;
+  position: absolute;
   width: 85px;
   height: 15px;
   left: 163px;
