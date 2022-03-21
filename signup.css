@@ -14,16 +14,10 @@
   z-index: 1;
 }
 #ellipse {
-  top: 90px;
-  right: 165px;
-  bottom: 653px;
-  left: 166px;
+  margin: 90px 165px 0px 166px;
 }
 #vector {
-  top: 112px;
-  right: 179.6px;
-  bottom: 675px;
-  left: 181px;
+  margin: 112px 179.6px 0px 181px;
 }
 #full-name {
   position: absolute;
