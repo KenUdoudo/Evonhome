@@ -43,10 +43,14 @@
 }
 #ellipse {
   top: 110px;
+  right: 165px;
+  bottom: 633px;
   left: 166px;
 }
 #vector {
   top: 132px;
+  right: 179.6px;
+  bottom: 655px;
   left: 181px;
 }
 h2{
