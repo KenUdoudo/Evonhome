@@ -42,16 +42,10 @@
   background-color: white;
 }
 #ellipse {
-  top: 110px;
-  right: 165px;
-  bottom: 633px;
-  left: 166px;
+  margin: 110px 165px 0px 166px;
 }
 #vector {
-  top: 132px;
-  right: 179.6px;
-  bottom: 655px;
-  left: 181px;
+  margin: 132px 179.6px 0px 181px;
 }
 h2{
   position: absolute;
