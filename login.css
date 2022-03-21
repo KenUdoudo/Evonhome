@@ -1,7 +1,7 @@
 .container {
   display: flex;
   position: relative;
-  width: 411px;
+  width: 400px;
   height: 823px;
   margin:auto;
 }
@@ -14,10 +14,12 @@
   z-index: 1;
 }
 #ellipse {
-  margin: 130px 165px 50px 166px;
+  top: 130px;
+  left: 166px;
 }
 #vector {
-  margin: 152px 179.6px 0 181px;
+  top: 152px;
+  left: 181px;
 }
 #email{
   position: absolute;
