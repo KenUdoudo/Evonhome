@@ -15,11 +15,14 @@
 }
 #ellipse {
   top: 90px;
+  right: 165px;
+  bottom: 653px;
   left: 166px;
 }
 #vector {
-  margin: 112px 179.6px 0 181px;
   top: 112px;
+  right: 179.6px;
+  bottom: 675px;
   left: 181px;
 }
 #full-name {
