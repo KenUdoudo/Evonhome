@@ -42,17 +42,19 @@
   background-color: white;
 }
 #ellipse {
-  margin: 110px 165px 15px 166px;
+  top: 110px;
+  left: 166px;
 }
 #vector {
-  margin: 132px 179.6px 0 181px;
+  top: 132px;
+  left: 181px;
 }
 h2{
   position: absolute;
   width: 105px;
   height: 27px;
   left: 153px;
-  top: 0px;
+  top: 205px;
   font-family: Comfortaa, monospace;
   font-style: normal;
   font-weight: bold;
@@ -67,8 +69,7 @@ h3 {
   width: 274px;
   height: 54px;
   left: 69px;
-  top: 0px;
-  margin-top: 62px;
+  top: 294px;
   font-family: 'SF Pro Display';
   font-size: 24px;
   line-height: 32px;
