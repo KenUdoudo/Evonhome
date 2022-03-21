@@ -1,7 +1,7 @@
 .container {
   display: flex;
   position: relative;
-  width: 411px;
+  width: 400px;
   height: 823px;
   margin: auto;
 }
@@ -14,10 +14,13 @@
   z-index: 1;
 }
 #ellipse {
-  margin: 90px 165px 50px 166px;
+  top: 90px;
+  left: 166px;
 }
 #vector {
   margin: 112px 179.6px 0 181px;
+  top: 112px;
+  left: 181px;
 }
 #full-name {
   position: absolute;
