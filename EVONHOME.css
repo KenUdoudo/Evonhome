@@ -17,7 +17,7 @@
   position: absolute;
   width: 315px;
   height: 48px;
-  left: 48px;
+  left: 42.5px;
   top: 612px;
   background: linear-gradient(90deg, #59A1FF 19.89%, #3D67F2 100%);
   border-radius: 3px;
@@ -31,7 +31,7 @@
 #log-in {
   position: absolute;
   width: 315px;
-  height: 48px;
+  height: 42.5px;
   left: 48px;
   top: 676px;
   font-family: SF Pro Display, sans-serif;
@@ -51,7 +51,7 @@ h2{
   position: absolute;
   width: 105px;
   height: 27px;
-  left: 153px;
+  left: 147.5px;
   top: 205px;
   font-family: Comfortaa, monospace;
   font-style: normal;
@@ -66,7 +66,7 @@ h3 {
   position: absolute;
   width: 274px;
   height: 54px;
-  left: 69px;
+  left: 63.5px;
   top: 294px;
   font-family: 'SF Pro Display';
   font-size: 24px;
@@ -78,7 +78,7 @@ h3 {
   position: absolute;
   width: 85px;
   height: 15px;
-  left: 163px;
+  left: 157.5px;
   top: 772px;
   font-family: 'SF Pro Display';
   font-size: 16px;
