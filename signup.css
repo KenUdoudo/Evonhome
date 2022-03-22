@@ -23,7 +23,7 @@
   position: absolute;
   width: 315px;
   height: 48px;
-  left: 48px;
+  left: 42.5px;
   top: 220px;
   background: #f2f5fa;
   border-radius: 3px;
@@ -34,7 +34,7 @@
 #email {
   position: absolute;
   width: 315px;
-  height: 48px;
+  height: 42.5px;
   left: 48px;
   top: 284px;
   background: #f2f5fa;
@@ -47,7 +47,7 @@
   position: absolute;
   margin-top: 64px;
   width: 315px;
-  height: 48px;
+  height: 42.5px;
   left: 48px;
   top: 284px;
   background: #f2f5fa;
@@ -60,7 +60,7 @@
   position: absolute;
   width: 315px;
   height: 48px;
-  left: 48px;
+  left: 42.5px;
   top: 412px;
   background: linear-gradient(90deg, #59a1ff 19.89%, #3d67f2 100%);
   border-radius: 3px;
@@ -71,7 +71,7 @@
   position: absolute;
   width: 134px;
   height: 0px;
-  left: 48px;
+  left: 42.5px;
   top: 506px;
   border: 1px solid #e4e6eb;
 }
@@ -79,7 +79,7 @@
   position: absolute;
   width: 134px;
   height: 0px;
-  left: 229px;
+  left: 223.5px;
   top: 506px;
   border: 1px solid #e4e6eb;
 }
@@ -87,7 +87,7 @@
   position: absolute;
   width: 14px;
   height: 19px;
-  left: 198px;
+  left: 192.5px;
   top: 496px;
   font-family: SF Pro Display;
   font-size: 16px;
@@ -99,7 +99,7 @@
   position: absolute;
   width: 296px;
   height: 34px;
-  left: 57px;
+  left: 51.5px;
   top: 671px;
   font-family: SF Pro Display;
   font-weight: 400;
@@ -112,7 +112,7 @@
   position: absolute;
   width: 214px;
   height: 15px;
-  left: 98px;
+  left: 92.5px;
   top: 772px;
   font-family: SF Pro Display;
   font-weight: 500;
@@ -126,19 +126,19 @@
   z-index: 2;
   width: 44px;
   height: 44px;
-  left: 48px;
+  left: 42.5px;
   top: 531px;
   background: #395185;
   border-radius: 3px 0px 0px 3px;
 }
 #fb {
-  margin: 12px 16.56px 12px 17px;
+  margin: 12px 11.06px 12px 11.5px;
 }
 #facebook-sign-up {
   position: absolute;
   width: 315px;
   height: 44px;
-  left: 48px;
+  left: 42.5px;
   top: 531px;
   background: #4a6ea8;
   border-radius: 3px;
@@ -149,7 +149,7 @@
   position: absolute;
   width: 315px;
   height: 44px;
-  left: 48px;
+  left: 42.5px;
   top: 591px;
   background: #ffffff;
   border: 1px solid #e4e6eb;
@@ -162,7 +162,7 @@
   position: absolute;
   width: 42.01px;
   height: 0px;
-  left: 68px;
+  left: 62.5px;
   top: 604px;
   border: 1px solid #e4e6eb;
   transform: matrix(-0.02, 1, -1, 0, 0, 0);
@@ -173,28 +173,28 @@
   width: 43px;
   height: 42px;
   top: 591px;
-  left: 48px;
+  left: 42.5px;
   background: white;
   border: 1px solid #e4e6eb;
   border-radius: 3px;
 }
 #google-red {
   position: absolute;
-  left: 13.96px;
+  left: 8.46px;
   top: 13px;
 }
 #google-yellow {
   position: absolute;
-  left: 14px;
+  left: 8.5px;
   top: 17px;
 }
 #google-green {
   position: absolute;
-  left: 13.98px;
+  left: 8.48px;
   top: 23px;
 }
 #google-blue {
   position: absolute;
-  left: 22px;
+  left: 16.5px;
   top: 20px;
 }
