@@ -14,16 +14,16 @@
   z-index: 1;
 }
 #ellipse {
-  margin: 130px 159.5px 0px 160.5px;
+  margin: 130px 154.1px 0px 155px;
 }
 #vector {
-  margin: 152px 174.1px 0px 175.5px;
+  margin: 152px 168.6px 0px 170px;
 }
 #email{
   position: absolute;
   width: 315px;
   height: 48px;
-  left: 48px;
+  left: 42.5px;
   top: 290px;
   background: #F2F5FA;
   border-radius: 3px;
@@ -35,7 +35,7 @@
   position: absolute;
   width: 315px;
   height: 48px;
-  left: 48px;
+  left: 42.5px;
   top: 354px;
   background: #F2F5FA;
   border-radius: 3px;
@@ -47,7 +47,7 @@
     position: absolute;
   width: 315px;
   height: 48px;
-  left: 48px;
+  left: 42.5px;
   top: 418px;
   background: linear-gradient(90deg, #59A1FF 19.89%, #3D67F2 100%);
   border-radius: 3px;
@@ -58,7 +58,7 @@
     position: absolute;
   width: 105px;
   height: 13px;
-  left: 153px;
+  left: 147.5px;
   top: 486px;
   font-family: 'SF Pro Display';
   font-size: 14px;
@@ -70,7 +70,7 @@
   position: absolute;
   width: 134px;
   height: 0px;
-  left: 48px;
+  left: 42.5px;
   top: 545px;
   border: 1px solid #E4E6EB;
   }
@@ -78,7 +78,7 @@
   position: absolute;
   width: 14px;
   height: 19px;
-  left: 198px;
+  left: 192.5px;
   top: 535px;
   font-size: 16px;
   line-height: 18px;
@@ -89,7 +89,7 @@
   position: absolute;
   width: 134px;
   height: 0px;
-  left: 229px;
+  left: 223.5px;
   top: 545px;
   border: 1px solid #E4E6EB;
   }
@@ -97,7 +97,7 @@
     position: absolute;
     width: 214px;
     height: 15px;
-    left: 98px;
+    left: 92.5px;
     top: 772px;
     font-family: SF Pro Display;
     font-weight: 500;
@@ -111,19 +111,19 @@
   z-index: 2;
   width: 44px;
   height: 44px;
-  left: 48px;
+  left: 42.5px;
   top: 570px;
   background: #395185;
   border-radius: 3px 0px 0px 3px;
   }
   #fb{
-  margin: 12px 16.56px 12px 17px;
+  margin: 12px 11.06px 12px 11.5px;
   }
   #facebook-log-in{
   position: absolute;
   width: 315px;
   height: 44px;
-  left: 48px;
+  left: 42.5px;
   top: 570px;
   background: #4A6EA8;
   border-radius: 3px;
@@ -134,7 +134,7 @@
   position: absolute;
   width: 315px;
   height: 44px;
-  left: 48px;
+  left: 42.5px;
   top: 630px;
   background: #FFFFFF;
   border: 1px solid #E4E6EB;
@@ -147,7 +147,7 @@
   position: absolute;
   width: 42.01px;
   height: 0px;
-  left: 70px;
+  left: 64.5px;
   top: 643px;
   border: 1px solid #E4E6EB;
   transform: matrix(-0.02, 1, -1, 0, 0, 0);
@@ -158,29 +158,29 @@
     width: 43px;
     height: 42px;
     top: 630px;
-    left: 48px;
+    left: 42.5px;
     background: white;
     border: 1px solid #E4E6EB;
     border-radius: 3px;
   }
   #google-red{
     position: absolute;
-    left: 13.96px;
+    left: 8.46px;
     top: 13px;
   }
   #google-yellow{
     position: absolute;
-    left: 14px;
+    left: 8.5px;
     top: 17px;
   }
   #google-green{
     position: absolute;
-    left: 13.98px;
+    left: 8.48px;
     top: 23px;
   }
   #google-blue{
     position: absolute;
-    left: 22px;
+    left: 16.5px;
     top: 20px;
   }
   
