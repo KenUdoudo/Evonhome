@@ -30,6 +30,7 @@
   font-size: 16px;
   color: #A6ACC3;
   border-width: 0;
+  padding-left: 16px;
 }
 #password{
   position: absolute;
@@ -42,6 +43,7 @@
   font-size: 16px;
   color: #A6ACC3;
   border-width: 0;
+  padding-left: 16px;
   }
   #log-in{
     position: absolute;
@@ -165,22 +167,22 @@
   }
   #google-red{
     position: absolute;
-    left: 8.46px;
+    left: 13.96px;
     top: 13px;
   }
   #google-yellow{
     position: absolute;
-    left: 8.5px;
+    left: 14px;
     top: 17px;
   }
   #google-green{
     position: absolute;
-    left: 8.48px;
+    left: 13.98px;
     top: 23px;
   }
   #google-blue{
     position: absolute;
-    left: 16.5px;
+    left: 22px;
     top: 20px;
   }
   
