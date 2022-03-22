@@ -30,31 +30,34 @@
   font-size: 16px;
   color: #a6acc3;
   border-width: 0;
+  padding-left: 16px;
 }
 #email {
   position: absolute;
   width: 315px;
-  height: 42.5px;
-  left: 48px;
+  height: 48px;
+  left: 42.5px;
   top: 284px;
   background: #f2f5fa;
   border-radius: 3px;
   font-size: 16px;
   color: #a6acc3;
   border-width: 0;
+  padding-left: 16px;
 }
 #password {
   position: absolute;
   margin-top: 64px;
   width: 315px;
-  height: 42.5px;
-  left: 48px;
+  height: 48px;
+  left: 42.5px;
   top: 284px;
   background: #f2f5fa;
   border-radius: 3px;
   font-size: 16px;
   color: #a6acc3;
   border-width: 0;
+  padding-left: 16px;
 }
 #sign-up {
   position: absolute;
@@ -66,6 +69,7 @@
   border-radius: 3px;
   color: #ffffff;
   border-width: 0;
+ 
 }
 #horizontal-1 {
   position: absolute;
@@ -132,7 +136,7 @@
   border-radius: 3px 0px 0px 3px;
 }
 #fb {
-  margin: 12px 11.06px 12px 11.5px;
+  margin: 12px 16.56px 12px 17px;
 }
 #facebook-sign-up {
   position: absolute;
@@ -180,21 +184,21 @@
 }
 #google-red {
   position: absolute;
-  left: 8.46px;
+  left: 13.96px;
   top: 13px;
 }
 #google-yellow {
   position: absolute;
-  left: 8.5px;
+  left: 14px;
   top: 17px;
 }
 #google-green {
   position: absolute;
-  left: 8.48px;
+  left: 13.98px;
   top: 23px;
 }
 #google-blue {
   position: absolute;
-  left: 16.5px;
+  left: 22px;
   top: 20px;
 }
